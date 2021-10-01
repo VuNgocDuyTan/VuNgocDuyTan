@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VuNgocDuyTan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @VuNgocDuyTan 
+- 👀 I’m interested in software developement
+- 🌱 I’m currently learning python, java, c++
 - 📫 How to reach me ? : DM me through discord Speedwagon#6981
 
 <!---
